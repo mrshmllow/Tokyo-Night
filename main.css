@@ -14,7 +14,7 @@
   --interactive-active: #aeb4cf;
   --interactive-muted: #484a57;
   --channels-default: #545766;
-  --background-primary: #1a1b26;
+  --background-primary: #24283b;
   --background-secondary: #171722;
   --background-secondary-alt: #13131a;
   --background-tertiary: #16161e;
@@ -742,7 +742,7 @@
   box-shadow: none !important;
 }
 .theme-dark .root-1gCeng {
-  background: #1a1b26 !important;
+  background: #24283b !important;
   box-shadow: none;
 }
 .theme-dark .container-UC8Ug1 {
